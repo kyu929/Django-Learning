@@ -1,6 +1,6 @@
 # Django-Learning
 
-Django MongoDB Ubuntu Nginx
+Django MongoDB Ubuntu Nginx OIDC
 
 reference : https://tutorial.djangogirls.org/ko/ (장고걸스 튜토리얼)
 
