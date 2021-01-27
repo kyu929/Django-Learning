@@ -4,8 +4,10 @@ Django MongoDB Ubuntu Nginx OIDC
 
 reference : https://tutorial.djangogirls.org/ko/ (장고걸스 튜토리얼)
 
+----------------------------------------------------------------------------------------
+
 - ### 가상환경(virtual environment)   
-   
+ 
    - #### 가상환경 설치
    ```
    # apt-get install python3-venv
@@ -26,5 +28,22 @@ reference : https://tutorial.djangogirls.org/ko/ (장고걸스 튜토리얼)
    ```
    # deactivate
    ```
-   
-- ### 다음 
+
+----------------------------------------------------------------------------------------
+
+- ### MongoDB
+  
+  - #### Installation
+  
+  ```
+  reference : https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+  ```
+  
+  - #### Intergrate
+  ```
+  reference : https://www.djongomapper.com/get-started/
+  ```
+
+----------------------------------------------------------------------------------------
+
+- ###
